@@ -8,10 +8,12 @@
       "parts": [
         { "path": "firmware/bootloader.bin", "offset": 0 },
         { "path": "https://corsproxy.io/?url=https://github.com/a4vgx7b2M/gaggiuino-esp32-loader/releases/latest/download/ui-embedded.bin", "offset": 65536 },
-        { "path": "https://corsproxy.io/?url=https://github.com/a4vgx7b2M/gaggiuino-esp32-loader/releases/latest/download/ui-web.bin", "offset": 12779520 }
+        { "path": "https://corsproxy.io/?url=https://github.com/a4vgx7b2M/gaggiuino-esp32-loader/releases/latest/download/ui-web.bin", "offset": 12779520 },
+        { "path": "firmware/blank.bin", "offset": 16769024 },
       ]
     }
   ]
 }
+
 
 
